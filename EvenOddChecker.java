@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 // Group 6
 
-public class EvenOrOddChecker {
+public class EvenOddChecker {
 	public static void main(String[] args) {
 		int num = getIntegerInput(); //Get the number
 		checkEvenOrOdd(num);	//Check the number
